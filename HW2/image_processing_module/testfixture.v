@@ -1,5 +1,5 @@
 `timescale 1ns/10ps
-`define CYCLE      100
+`define CYCLE      4
 `define ENDCYCLE    100000
 `define SDFFILE     "./syn/imgproc_syn.sdf"	  // Modify your sdf file name
 `define PAT         "./data/pattern1_hex.dat"    
